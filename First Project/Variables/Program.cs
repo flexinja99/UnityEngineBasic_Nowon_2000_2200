@@ -8,7 +8,8 @@ namespace Variable
     {
         static void Main(string[] args)
         {
-
+            // 0000(28개)... 1110
+            Human.age = 13; // = 2^3 + 2^2 + 2^1
             Console.WriteLine(".");
             Console.WriteLine(Human.age);
         }
@@ -32,7 +33,7 @@ namespace Variable
         bool isResting; // 1 byte 논리형 (참과 거짓 표현)
         // 참 : 0이 아닌 숫자, 거짓 : 0
         char genderChar; // 2 byte 문자형 (ASCII 코드로 표현
-        string name; // 믄지열형, 문자갯수 * 2 byte + 1 byte (NULL)
+        string name; // 문자열형, 문자갯수 * 2 byte + 1 byte (NULL)
 
         // 멤버
         // class / structure / namespace를 구성하는 구성원을 멤버라 함
