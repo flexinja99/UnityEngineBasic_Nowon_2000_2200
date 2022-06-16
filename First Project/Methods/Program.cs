@@ -24,7 +24,7 @@ namespace Methods
             // 지역변수가 할당되는 공간은 어떤 값이 들어있는지 알 수 없으므로
             // 초기화를 해주어야한다.
             int a = 2;
-            
+
             Console.WriteLine(Sum(a, b));
             Console.WriteLine(5);
         }
