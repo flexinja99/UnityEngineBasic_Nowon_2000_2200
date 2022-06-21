@@ -1,0 +1,4 @@
+C:\Users\User\Documents\github\UnityEngineBasic_Nowon_2000_2200\First Project\OperatorMethods\obj\Debug\net5.0\OperatorMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\github\UnityEngineBasic_Nowon_2000_2200\First Project\OperatorMethods\obj\Debug\net5.0\OperatorMethods.AssemblyInfoInputs.cache
+C:\Users\User\Documents\github\UnityEngineBasic_Nowon_2000_2200\First Project\OperatorMethods\obj\Debug\net5.0\OperatorMethods.AssemblyInfo.cs
+C:\Users\User\Documents\github\UnityEngineBasic_Nowon_2000_2200\First Project\OperatorMethods\obj\Debug\net5.0\OperatorMethods.csproj.CoreCompileInputs.cache

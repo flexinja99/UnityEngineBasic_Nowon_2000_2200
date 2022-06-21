@@ -8,7 +8,7 @@ namespace ClassObjectInstance
         {
             // 값 형식 , 참조형식
             // 값형식 : 값을 직접 읽고 / 쓰는 형태의 형식
-            // 참조형식 : 주소를 읽고 / 주소위치에 값을 쓰는 형태의 형식
+            // 참조형식 : 주소를 읽고 / 주소위치에 값을 쓰는 형태의 형식, 힙 영역에 할당
 
             // int : 정수 타입
             // a : 정수
@@ -26,7 +26,7 @@ namespace ClassObjectInstance
             
 
             // .연산자 : 멤버에 접근할때 쓰는 연산자
-            Human human2;
+            Human human2;b
         }
     }
 
@@ -39,12 +39,19 @@ namespace ClassObjectInstance
         private char genderChar;
         private string name; 
 
-        // 생성자
+        // 생성자 : 객체를 생성 (해당 객체를 만드는데 필요한 공간 할당)
         public Human()
         {
             height = 20f;
             weight = 30;
             age = 5;
+        }
+
+        // 소멸자 (해당객체를 만들때 할당했었던 메모리 해제
+
+        ~Human()
+        {
+
         }
     }
 }
