@@ -33,7 +33,7 @@ namespace InstantiationExample
             Console.WriteLine(human2.age);
             Console.WriteLine(human2.height);
 
-          
+
 
 
         }

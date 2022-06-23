@@ -23,21 +23,21 @@ namespace ClassObjectInstance
             Human.age = 3;
             Console.WriteLine(Human.age);
             Console.WriteLine(human1.weight);
-            
+
 
             // .연산자 : 멤버에 접근할때 쓰는 연산자
-            Human human2;b
+            Human human2; b
         }
     }
 
     class Human
     {
-        public static int age; 
+        public static int age;
         public float height;
         public double weight;
         private bool isResting;
         private char genderChar;
-        private string name; 
+        private string name;
 
         // 생성자 : 객체를 생성 (해당 객체를 만드는데 필요한 공간 할당)
         public Human()

@@ -32,12 +32,12 @@ namespace Array
             arrSring[1] = "최성빈";
             arrSring[2] = "이성빈";
 
-            char[] arrChar = {'a', 'n', 'c'};
+            char[] arrChar = { 'a', 'n', 'c' };
             String tmpString = new String(arrChar);
             Console.WriteLine(tmpString);
             string tmpString2 = "Luke";
             Console.WriteLine(tmpString2[0]);
-           
+
         }
     }
 }

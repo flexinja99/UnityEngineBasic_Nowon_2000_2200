@@ -25,7 +25,7 @@ namespace Statement_If
                 // 조건3이 참일 때 실행할 내용
                 Console.WriteLine("조건 1,2가 거짓이고, 조건 3은 참이다");
             }
-            else 
+            else
             {
                 // 조건이 거짓일 때 실행할 내용
                 Console.WriteLine("이것은 거짓이다");
