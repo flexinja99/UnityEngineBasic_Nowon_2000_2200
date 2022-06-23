@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dmdm1\\source\\repos\\FirstProject\\Array\\Array.csproj",
+      "projectUniqueName": "C:\\Users\\dmdm1\\Documents\\GitHub\\UnityEngineBasic_Nowon_2000_2200\\First Project\\Array\\Array.csproj",
       "projectName": "Array",
-      "projectPath": "C:\\Users\\dmdm1\\source\\repos\\FirstProject\\Array\\Array.csproj",
+      "projectPath": "C:\\Users\\dmdm1\\Documents\\GitHub\\UnityEngineBasic_Nowon_2000_2200\\First Project\\Array\\Array.csproj",
       "packagesPath": "C:\\Users\\dmdm1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dmdm1\\source\\repos\\FirstProject\\Array\\obj\\",
+      "outputPath": "C:\\Users\\dmdm1\\Documents\\GitHub\\UnityEngineBasic_Nowon_2000_2200\\First Project\\Array\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dmdm1\\AppData\\Roaming\\NuGet\\NuGet.Config",

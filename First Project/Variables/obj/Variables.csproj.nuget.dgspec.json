@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dmdm1\\source\\repos\\FirstProject\\Variables\\Variables.csproj": {}
+    "C:\\Users\\dmdm1\\Documents\\GitHub\\UnityEngineBasic_Nowon_2000_2200\\First Project\\Variables\\Variables.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dmdm1\\source\\repos\\FirstProject\\Variables\\Variables.csproj": {
+    "C:\\Users\\dmdm1\\Documents\\GitHub\\UnityEngineBasic_Nowon_2000_2200\\First Project\\Variables\\Variables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dmdm1\\source\\repos\\FirstProject\\Variables\\Variables.csproj",
+        "projectUniqueName": "C:\\Users\\dmdm1\\Documents\\GitHub\\UnityEngineBasic_Nowon_2000_2200\\First Project\\Variables\\Variables.csproj",
         "projectName": "Variables",
-        "projectPath": "C:\\Users\\dmdm1\\source\\repos\\FirstProject\\Variables\\Variables.csproj",
+        "projectPath": "C:\\Users\\dmdm1\\Documents\\GitHub\\UnityEngineBasic_Nowon_2000_2200\\First Project\\Variables\\Variables.csproj",
         "packagesPath": "C:\\Users\\dmdm1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dmdm1\\source\\repos\\FirstProject\\Variables\\obj\\",
+        "outputPath": "C:\\Users\\dmdm1\\Documents\\GitHub\\UnityEngineBasic_Nowon_2000_2200\\First Project\\Variables\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dmdm1\\AppData\\Roaming\\NuGet\\NuGet.Config",

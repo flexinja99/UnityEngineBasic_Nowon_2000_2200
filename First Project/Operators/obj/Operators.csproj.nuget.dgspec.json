@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dmdm1\\source\\repos\\FirstProject\\Operators\\Operators.csproj": {}
+    "C:\\Users\\dmdm1\\Documents\\GitHub\\UnityEngineBasic_Nowon_2000_2200\\First Project\\Operators\\Operators.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dmdm1\\source\\repos\\FirstProject\\Operators\\Operators.csproj": {
+    "C:\\Users\\dmdm1\\Documents\\GitHub\\UnityEngineBasic_Nowon_2000_2200\\First Project\\Operators\\Operators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dmdm1\\source\\repos\\FirstProject\\Operators\\Operators.csproj",
+        "projectUniqueName": "C:\\Users\\dmdm1\\Documents\\GitHub\\UnityEngineBasic_Nowon_2000_2200\\First Project\\Operators\\Operators.csproj",
         "projectName": "Operators",
-        "projectPath": "C:\\Users\\dmdm1\\source\\repos\\FirstProject\\Operators\\Operators.csproj",
+        "projectPath": "C:\\Users\\dmdm1\\Documents\\GitHub\\UnityEngineBasic_Nowon_2000_2200\\First Project\\Operators\\Operators.csproj",
         "packagesPath": "C:\\Users\\dmdm1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dmdm1\\source\\repos\\FirstProject\\Operators\\obj\\",
+        "outputPath": "C:\\Users\\dmdm1\\Documents\\GitHub\\UnityEngineBasic_Nowon_2000_2200\\First Project\\Operators\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dmdm1\\AppData\\Roaming\\NuGet\\NuGet.Config",

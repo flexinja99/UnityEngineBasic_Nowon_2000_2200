@@ -1,0 +1,15 @@
+C:\Users\dmdm1\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\First Project\Statement_Loops\bin\Debug\net6.0\Statement_Loops.exe
+C:\Users\dmdm1\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\First Project\Statement_Loops\bin\Debug\net6.0\Statement_Loops.deps.json
+C:\Users\dmdm1\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\First Project\Statement_Loops\bin\Debug\net6.0\Statement_Loops.runtimeconfig.json
+C:\Users\dmdm1\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\First Project\Statement_Loops\bin\Debug\net6.0\Statement_Loops.dll
+C:\Users\dmdm1\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\First Project\Statement_Loops\bin\Debug\net6.0\Statement_Loops.pdb
+C:\Users\dmdm1\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\First Project\Statement_Loops\obj\Debug\net6.0\Statement_Loops.csproj.AssemblyReference.cache
+C:\Users\dmdm1\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\First Project\Statement_Loops\obj\Debug\net6.0\Statement_Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmdm1\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\First Project\Statement_Loops\obj\Debug\net6.0\Statement_Loops.AssemblyInfoInputs.cache
+C:\Users\dmdm1\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\First Project\Statement_Loops\obj\Debug\net6.0\Statement_Loops.AssemblyInfo.cs
+C:\Users\dmdm1\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\First Project\Statement_Loops\obj\Debug\net6.0\Statement_Loops.csproj.CoreCompileInputs.cache
+C:\Users\dmdm1\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\First Project\Statement_Loops\obj\Debug\net6.0\Statement_Loops.dll
+C:\Users\dmdm1\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\First Project\Statement_Loops\obj\Debug\net6.0\refint\Statement_Loops.dll
+C:\Users\dmdm1\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\First Project\Statement_Loops\obj\Debug\net6.0\Statement_Loops.pdb
+C:\Users\dmdm1\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\First Project\Statement_Loops\obj\Debug\net6.0\Statement_Loops.genruntimeconfig.cache
+C:\Users\dmdm1\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\First Project\Statement_Loops\obj\Debug\net6.0\ref\Statement_Loops.dll

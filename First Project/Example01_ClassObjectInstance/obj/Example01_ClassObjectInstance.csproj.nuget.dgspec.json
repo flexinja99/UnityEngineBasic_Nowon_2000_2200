@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dmdm1\\source\\repos\\FirstProject\\Example01_ClassObjectInstance\\Example01_ClassObjectInstance.csproj": {}
+    "C:\\Users\\dmdm1\\Documents\\GitHub\\UnityEngineBasic_Nowon_2000_2200\\First Project\\Example01_ClassObjectInstance\\Example01_ClassObjectInstance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dmdm1\\source\\repos\\FirstProject\\Example01_ClassObjectInstance\\Example01_ClassObjectInstance.csproj": {
+    "C:\\Users\\dmdm1\\Documents\\GitHub\\UnityEngineBasic_Nowon_2000_2200\\First Project\\Example01_ClassObjectInstance\\Example01_ClassObjectInstance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dmdm1\\source\\repos\\FirstProject\\Example01_ClassObjectInstance\\Example01_ClassObjectInstance.csproj",
+        "projectUniqueName": "C:\\Users\\dmdm1\\Documents\\GitHub\\UnityEngineBasic_Nowon_2000_2200\\First Project\\Example01_ClassObjectInstance\\Example01_ClassObjectInstance.csproj",
         "projectName": "Example01_ClassObjectInstance",
-        "projectPath": "C:\\Users\\dmdm1\\source\\repos\\FirstProject\\Example01_ClassObjectInstance\\Example01_ClassObjectInstance.csproj",
+        "projectPath": "C:\\Users\\dmdm1\\Documents\\GitHub\\UnityEngineBasic_Nowon_2000_2200\\First Project\\Example01_ClassObjectInstance\\Example01_ClassObjectInstance.csproj",
         "packagesPath": "C:\\Users\\dmdm1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dmdm1\\source\\repos\\FirstProject\\Example01_ClassObjectInstance\\obj\\",
+        "outputPath": "C:\\Users\\dmdm1\\Documents\\GitHub\\UnityEngineBasic_Nowon_2000_2200\\First Project\\Example01_ClassObjectInstance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dmdm1\\AppData\\Roaming\\NuGet\\NuGet.Config",

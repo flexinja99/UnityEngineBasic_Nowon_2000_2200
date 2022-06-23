@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dmdm1\\source\\repos\\FirstProject\\OperatorMethods\\OperatorMethods.csproj": {}
+    "C:\\Users\\dmdm1\\Documents\\GitHub\\UnityEngineBasic_Nowon_2000_2200\\First Project\\OperatorMethods\\OperatorMethods.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dmdm1\\source\\repos\\FirstProject\\OperatorMethods\\OperatorMethods.csproj": {
+    "C:\\Users\\dmdm1\\Documents\\GitHub\\UnityEngineBasic_Nowon_2000_2200\\First Project\\OperatorMethods\\OperatorMethods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dmdm1\\source\\repos\\FirstProject\\OperatorMethods\\OperatorMethods.csproj",
+        "projectUniqueName": "C:\\Users\\dmdm1\\Documents\\GitHub\\UnityEngineBasic_Nowon_2000_2200\\First Project\\OperatorMethods\\OperatorMethods.csproj",
         "projectName": "OperatorMethods",
-        "projectPath": "C:\\Users\\dmdm1\\source\\repos\\FirstProject\\OperatorMethods\\OperatorMethods.csproj",
+        "projectPath": "C:\\Users\\dmdm1\\Documents\\GitHub\\UnityEngineBasic_Nowon_2000_2200\\First Project\\OperatorMethods\\OperatorMethods.csproj",
         "packagesPath": "C:\\Users\\dmdm1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dmdm1\\source\\repos\\FirstProject\\OperatorMethods\\obj\\",
+        "outputPath": "C:\\Users\\dmdm1\\Documents\\GitHub\\UnityEngineBasic_Nowon_2000_2200\\First Project\\OperatorMethods\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dmdm1\\AppData\\Roaming\\NuGet\\NuGet.Config",
