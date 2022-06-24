@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "TD+7SYhXLfUR6SBoY8HCNg3cdO1D5ko3lNqyeOoOsTxGONqKn1jMwO7DUMyEkLhraV7l1fGC9eFjQwS1sOM5Tw==",
+  "dgSpecHash": "d4QvByoP9+cHEPVHf6EGZDchxCbGIk565J+RwypdaFQkYJzDxPTlio1Ic5ThEVS36PW3RPmryxlNO+hfQAAUVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dmdm1\\Documents\\GitHub\\UnityEngineBasic_Nowon_2000_2200\\First Project\\Example01_ClassObjectInstance\\Example01_ClassObjectInstance.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\User\\Documents\\github\\UnityEngineBasic_Nowon_2000_2200\\First Project\\Example01_ClassObjectInstance\\Example01_ClassObjectInstance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
