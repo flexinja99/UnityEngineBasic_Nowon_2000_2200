@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Example02_Array2D 수정본")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Example03_DynamicArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Example02_Array2D 수정본")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Example02_Array2D 수정본")]
+[assembly: System.Reflection.AssemblyProductAttribute("Example03_DynamicArray")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Example03_DynamicArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.

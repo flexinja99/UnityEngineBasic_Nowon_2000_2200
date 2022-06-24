@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\github\\UnityEngineBasic_Nowon_2000_2200\\First Project\\Example02_Array2D 수정본\\Example02_Array2D 수정본.csproj",
-      "projectName": "Example02_Array2D 수정본",
-      "projectPath": "C:\\Users\\User\\Documents\\github\\UnityEngineBasic_Nowon_2000_2200\\First Project\\Example02_Array2D 수정본\\Example02_Array2D 수정본.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\github\\UnityEngineBasic_Nowon_2000_2200\\First Project\\Example03_DynamicArray\\Example03_DynamicArray.csproj",
+      "projectName": "Example03_DynamicArray",
+      "projectPath": "C:\\Users\\User\\Documents\\github\\UnityEngineBasic_Nowon_2000_2200\\First Project\\Example03_DynamicArray\\Example03_DynamicArray.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\github\\UnityEngineBasic_Nowon_2000_2200\\First Project\\Example02_Array2D 수정본\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\github\\UnityEngineBasic_Nowon_2000_2200\\First Project\\Example03_DynamicArray\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
