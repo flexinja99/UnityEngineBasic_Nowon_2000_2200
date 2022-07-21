@@ -58,6 +58,8 @@
   <ItemGroup>
     <Compile Include="Assets\02.Scripts\HorseMove.cs" />
     <Compile Include="Assets\02.Scripts\RacingPlay.cs" />
+    <Compile Include="Assets\02.Scripts\CameraManager.cs" />
+    <Compile Include="Assets\02.Scripts\PlayerFollowingCamera.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
