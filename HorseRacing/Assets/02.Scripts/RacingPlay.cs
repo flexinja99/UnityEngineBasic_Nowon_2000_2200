@@ -10,11 +10,11 @@ public class RacingPlay : MonoBehaviour
     private int totalnum;
     [SerializeField] private List<HorseMove> horses;
     [SerializeField] private Transform goalPoint;
-    private List<Transform> horsesFinished = new List<Transform>();
     [SerializeField] private Transform platform1GradePoint;
     [SerializeField] private Transform platform2GradePoint;
     [SerializeField] private Transform platform3GradePoint;
 
+    private List<Transform> horsesFinished = new List<Transform>();
 
 
     public void Play()
