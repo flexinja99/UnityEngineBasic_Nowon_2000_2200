@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.UI;
 public class Enemy : MonoBehaviour
 {
     private float _hp;
@@ -9,6 +9,9 @@ public class Enemy : MonoBehaviour
     {
         set
         {
+            if (value < 0)
+                value = 0;
+
             _hp = value;
             if (_hp <= 0)
             {
@@ -21,14 +24,15 @@ public class Enemy : MonoBehaviour
         }
     }
 
-    public float hpInit;
+    public float hpMax;
+    public Slider hpbar;
 
     public float score;
     [SerializeField] private float moveSpeed;
 
     private void Awake()
     {
-        hp = hpInit;
+        hp = hpMax;
     }
 
     private void FixedUpdate()
